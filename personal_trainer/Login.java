@@ -11,6 +11,10 @@ public class Login {
 
         Student heitor = new Student("heitor.carvalho@gmail.com", "heitorgamer123");
         System.out.println(heitor.validaEntrada(1));
+        System.out.println(heitor.validaEntrada(1));
+        System.out.println(heitor.validaEntrada(1));
+        System.out.println(heitor.validaEntrada(1));
+        System.out.println(heitor.validaEntrada(1));
 
         //Professor camila = new Professor("camila.nunes@outlook.com", "teste12");
         //System.out.println(camila.validaEntrada(2));
