@@ -6,9 +6,11 @@ public class Login {
         Student rafael = new Student("rafael.scarvalho08@gmail.com", "31145302Rafaau");
         System.out.println(rafael.validaEntrada(1));
 
+        // Novo aluno Higor
         Student higor = new Student("higor.nunes@gmail.com", "higorgamer123");
         System.out.println(higor.validaEntrada(1));
 
+        // Novo aluno Heitor
         Student heitor = new Student("heitor.carvalho@gmail.com", "heitorgamer123");
         System.out.println(heitor.validaEntrada(1));
         System.out.println(heitor.validaEntrada(1));
